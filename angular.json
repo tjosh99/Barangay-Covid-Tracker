@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bctcapstone"
+    }
+  },
+  "defaultProject": "bctcapstone",
+  "cli": {
+    "analytics": "58869ebb-5b2c-4b13-89c2-5ea40dc557f4"
+  }
 }
